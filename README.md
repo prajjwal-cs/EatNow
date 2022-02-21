@@ -9,4 +9,4 @@ A brief description of what this project does and who it's for
 - [@AyushiGupta07](https://github.com/AyushiGupta07)
 - [@kshitij-24-cyber](https://github.com/kshitij-24-cyber)
 - [@vaidik22](https://github.com/vaidik22)
-
+- [@prajjwal-cs](https://github.com/prajjwal-cs)
